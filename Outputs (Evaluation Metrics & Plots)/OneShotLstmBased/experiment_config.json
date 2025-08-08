@@ -1,0 +1,15 @@
+{
+  "model_type": "OneShotLstmBased",
+  "timesteps": 200,
+  "latent_dim": 100,
+  "dropout": 0.3,
+  "batch_size": 32,
+  "lr": 0.001,
+  "epochs": 30,
+  "criterion": "rmsle",
+  "feature_count": 21,
+  "static_features": 11,
+  "timestamp": "2025-07-19T23:22:25.984388",
+  "model_directory": "OneShotLstmBased",
+  "seed": 42
+}

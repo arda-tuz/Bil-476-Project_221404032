@@ -1,0 +1,15 @@
+{
+  "model_type": "TemporalCnn",
+  "timesteps": 200,
+  "latent_dim": 64,
+  "dropout": 0.2,
+  "batch_size": 64,
+  "lr": 0.003,
+  "epochs": 30,
+  "criterion": "rmsle",
+  "feature_count": 21,
+  "static_features": 11,
+  "timestamp": "2025-07-20T04:33:37.141529",
+  "model_directory": "TemporalCnn",
+  "seed": 42
+}
